@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging E:\lab\scala\target\scala-2.13\testmodule_2.13-0.1-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EntryPoint$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\lab\scala\target\scala-2.13\classes\EntryPoint$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	itisapackage[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\lab\scala\target\scala-2.13\classes\itisapackage[0m
+[0m[[0m[0mdebug[0m] [0m[0m	itisapackage\TestModule$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\lab\scala\target\scala-2.13\classes\itisapackage\TestModule$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EntryPoint.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\lab\scala\target\scala-2.13\classes\EntryPoint.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	itisapackage\TestModule.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\lab\scala\target\scala-2.13\classes\itisapackage\TestModule.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
